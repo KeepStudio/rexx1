@@ -1,0 +1,1504 @@
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:排序及相关操作（一）
+content:
+			本课程主要讲解 STL 提供的排序相关算法，包括全部元素排序、局部排序和根据某个元素排序等函数。
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:排序及相关操作（一）
+content:
+			本课程主要讲解 STL 提供的排序相关算法，包括全部元素排序、局部排序和根据某个元素排序等函数。
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:HBase 与 Phoenix
+content:
+			本课程是《 HBase 系统管理员课程 》中的一个章节。主要介绍 HBase 的一个查询工具 Phoenix 的安装与使用。
+		
+classtime:3课时
+							31分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:排序及相关操作（一）
+content:
+			本课程主要讲解 STL 提供的排序相关算法，包括全部元素排序、局部排序和根据某个元素排序等函数。
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:HBase 与 Phoenix
+content:
+			本课程是《 HBase 系统管理员课程 》中的一个章节。主要介绍 HBase 的一个查询工具 Phoenix 的安装与使用。
+		
+classtime:3课时
+							31分钟
+classlevel:中级
+title:FileMaker 14 高级教学（二）FileMaker 设计界面
+content:
+			本章我们将学习怎样快速创建合理美观的布局。学习完本章，我们将了解怎样快速新建并管理布局，怎样根据不同的平台选择布局的模式，怎样使用布局中多变的小工具以及了解值列表的使用方法和控件风格的变化和最终在布局上的展示效果。
+		
+classtime:5课时
+							41分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:排序及相关操作（一）
+content:
+			本课程主要讲解 STL 提供的排序相关算法，包括全部元素排序、局部排序和根据某个元素排序等函数。
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:HBase 与 Phoenix
+content:
+			本课程是《 HBase 系统管理员课程 》中的一个章节。主要介绍 HBase 的一个查询工具 Phoenix 的安装与使用。
+		
+classtime:3课时
+							31分钟
+classlevel:中级
+title:FileMaker 14 高级教学（二）FileMaker 设计界面
+content:
+			本章我们将学习怎样快速创建合理美观的布局。学习完本章，我们将了解怎样快速新建并管理布局，怎样根据不同的平台选择布局的模式，怎样使用布局中多变的小工具以及了解值列表的使用方法和控件风格的变化和最终在布局上的展示效果。
+		
+classtime:5课时
+							41分钟
+classlevel:初级
+title:利用 Adaptive Layout 设计用户界面之UI设计基础
+content:
+			本课程讲解通过 Universal storyboard（通用故事板）搭建 Weather 应用程序的用户界面的相关知识。内容包含利用 Auto Layout（自动布局）的 constraints（约束）进行用户界面的布局，利用 Adaptive Layout（自适应布局）的 size classes 特性，仅设计一套用户界面便可以在所有的 iOS 设备上呈现出完美的效果。同时，还会介绍自适应字体及与设备相关图片的知识。
+		
+classtime:4课时
+							45分钟
+classlevel:中级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:排序及相关操作（一）
+content:
+			本课程主要讲解 STL 提供的排序相关算法，包括全部元素排序、局部排序和根据某个元素排序等函数。
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:HBase 与 Phoenix
+content:
+			本课程是《 HBase 系统管理员课程 》中的一个章节。主要介绍 HBase 的一个查询工具 Phoenix 的安装与使用。
+		
+classtime:3课时
+							31分钟
+classlevel:中级
+title:FileMaker 14 高级教学（二）FileMaker 设计界面
+content:
+			本章我们将学习怎样快速创建合理美观的布局。学习完本章，我们将了解怎样快速新建并管理布局，怎样根据不同的平台选择布局的模式，怎样使用布局中多变的小工具以及了解值列表的使用方法和控件风格的变化和最终在布局上的展示效果。
+		
+classtime:5课时
+							41分钟
+classlevel:初级
+title:利用 Adaptive Layout 设计用户界面之UI设计基础
+content:
+			本课程讲解通过 Universal storyboard（通用故事板）搭建 Weather 应用程序的用户界面的相关知识。内容包含利用 Auto Layout（自动布局）的 constraints（约束）进行用户界面的布局，利用 Adaptive Layout（自适应布局）的 size classes 特性，仅设计一套用户界面便可以在所有的 iOS 设备上呈现出完美的效果。同时，还会介绍自适应字体及与设备相关图片的知识。
+		
+classtime:4课时
+							45分钟
+classlevel:中级
+title:Android UiAutomator2 UiObject2
+content:
+			Android 测试支持库，封装了一个全新的对象 UiObject2，用于模拟操作手机的各种动作，如点击、滑动、长按、拖拽、滚动等。大体方法与原来 UiObject 差不多，也有部分的区别，本课程对新加 API 进行重点说明。
+		
+classtime:4课时
+							72分钟
+classlevel:初级
+title:微软男神夜话-人工智能的美丽新世界
+content:
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime:3课时
+							58分钟
+classlevel:初级
+title:如何更换Dragonboard 410c操作系统
+content:
+			本课教大家如何选择适合自己的操作系统和更换Dragonboard 410c开发板上的操作系统，包括在linux、windows环境下使用SD卡和fastboot工具来烧写android和linux操作系统，熟练掌握各种系统烧录工具和方法的使用。
+		
+classtime:9课时
+							100分钟
+classlevel:初级
+title:Google  I/O 2016 技术揭秘与前瞻
+content:
+			本课程主要针对2016 Google I/O大会Keynote发布的内容进行剖析。讲解Google目前发展的技术趋势及主打方向。并针对开发者在大会中所需要了解的知识方向进行分析。让开发者们了解接下去需要学习哪些技能来应对新发布的产品及技术。以及如何进行学习。
+		
+classtime:4课时
+							52分钟
+classlevel:初级
+title:开发远程控制程序高级功能
+content:
+			本课程讲解在图形化远程控制程序的基础上，实现读写剪贴板，查看远程受控电脑的屏幕和上传文件等高级功能。
+		
+classtime:5课时
+							48分钟
+classlevel:中级
+title:使用 CocoaPods 管理 iOS 库
+content:
+			学完本课程后能够掌握 iOS 库的基本知识，以及能使用 CocoaPods 管理和配置库。
+
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:腾讯云技术道场第一期
+content:
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		
+classtime:4课时
+							122分钟
+classlevel:初级
+title:Microsoft SQL Server 数据库的索引运算分析
+content:
+			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+		
+classtime:4课时
+							40分钟
+classlevel:中级
+title:Photoshop 图层样式快速学
+content:
+			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+		
+classtime:3课时
+							44分钟
+classlevel:初级
+title:Android Studio全方位指南之基本操作指南
+content:
+			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+		
+classtime:6课时
+							46分钟
+classlevel:初级
+title:Photoshop 布局设计
+content:
+			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+		
+classtime:3课时
+							20分钟
+classlevel:初级
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:
+			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+		
+classtime:3课时
+							62分钟
+classlevel:中级
+title:Arduino 存储数据（2）——存储到 SD 卡
+content:
+			本课程讲解如何利用 Arduino 将数据存储到 SD 卡的基本原理及其电路实现，并通过对两个具体实例的讲解帮助学员掌握 SD 卡在 Arduino 项目中的基本应用，进一步提高学员利用 SD 卡存储数据的能力。
+		
+classtime:3课时
+							51分钟
+classlevel:中级
+title:HBase Rest/Thrift
+content:
+			本课程主要讲解在 HBase 中如何通过 Rest/Thrift 来访问 HBase 中的数据，方便其他不会 Java 的开发人员调用 HBase 接口。
+		
+classtime:2课时
+							27分钟
+classlevel:高级
+title:Lambda 架构详解（上）
+content:
+			本课程将会温习并深入讲解 Lambda 架构。并着眼于在基于 Lambda 架构的系统中实现对数据的 CRUD 操作，并以实际代码为例进行讲解。
+
+		
+classtime:3课时
+							38分钟
+classlevel:中级
+title:排序及相关操作（一）
+content:
+			本课程主要讲解 STL 提供的排序相关算法，包括全部元素排序、局部排序和根据某个元素排序等函数。
+		
+classtime:3课时
+							40分钟
+classlevel:中级
+title:HBase 与 Phoenix
+content:
+			本课程是《 HBase 系统管理员课程 》中的一个章节。主要介绍 HBase 的一个查询工具 Phoenix 的安装与使用。
+		
+classtime:3课时
+							31分钟
+classlevel:中级
+title:FileMaker 14 高级教学（二）FileMaker 设计界面
+content:
+			本章我们将学习怎样快速创建合理美观的布局。学习完本章，我们将了解怎样快速新建并管理布局，怎样根据不同的平台选择布局的模式，怎样使用布局中多变的小工具以及了解值列表的使用方法和控件风格的变化和最终在布局上的展示效果。
+		
+classtime:5课时
+							41分钟
+classlevel:初级
+title:利用 Adaptive Layout 设计用户界面之UI设计基础
+content:
+			本课程讲解通过 Universal storyboard（通用故事板）搭建 Weather 应用程序的用户界面的相关知识。内容包含利用 Auto Layout（自动布局）的 constraints（约束）进行用户界面的布局，利用 Adaptive Layout（自适应布局）的 size classes 特性，仅设计一套用户界面便可以在所有的 iOS 设备上呈现出完美的效果。同时，还会介绍自适应字体及与设备相关图片的知识。
+		
+classtime:4课时
+							45分钟
+classlevel:中级
+title:Android UiAutomator2 UiObject2
+content:
+			Android 测试支持库，封装了一个全新的对象 UiObject2，用于模拟操作手机的各种动作，如点击、滑动、长按、拖拽、滚动等。大体方法与原来 UiObject 差不多，也有部分的区别，本课程对新加 API 进行重点说明。
+		
+classtime:4课时
+							72分钟
+classlevel:初级
+title:第一个 Activiti 程序
+content:
+			本课程通过 HelloWorld 程序开发，介绍 Activiti 的开发流程、H2 内存数据库的使用，讲解 MySQL 的安装、流程引擎、流程实例、流程任务，最后通过对该案例的分析，让学员在整体上把握开发流程，学会如何开发 Activiti 程序。
+		
+classtime:4课时
+							49分钟
+classlevel:中级

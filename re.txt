@@ -1,0 +1,55 @@
+<ul>
+        
+            <li>
+                <a href="/zhiye/course/66.html?type=23" target="_blank">
+                <img src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20170526/2d5f3fae-e52d-48a0-b5a5-69f46eb4ebe9.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">基于ThinkPHP5的博客系统实战</p>
+                    <p class="skuInfo">11小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">149.00</span>
+                    <span class="skuThrought">¥299.00</span>
+                    <span class="skuNum">14人学习</span>
+                </div>
+                </a>
+            </li>
+        
+            <li>
+                <a href="/zhiye/course/77.html?type=18" target="_blank">
+                <img src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20170612/66193224-5941-4470-a88a-17ab4008f95a.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">Android HyBrid App开发实战</p>
+                    <p class="skuInfo">5小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">99.00</span>
+                    <span class="skuThrought">¥199.00</span>
+                    <span class="skuNum">11人学习</span>
+                </div>
+                </a>
+            </li>
+        
+            <li>
+                <a href="/zhiye/course/78.html?type=8" target="_blank">
+                <img src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20170615/8d9ca0e9-d0ff-41bc-b3d9-e614eb9709e2.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">Angular 2劲爆来袭-打造你的『今日头条』</p>
+                    <p class="skuInfo">5小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">129.00</span>
+                    <span class="skuThrought">¥199.00</span>
+                    <span class="skuNum">9人学习</span>
+                </div>
+                </a>
+            </li>
+        
+            <li>
+                <a href="/zhiye/course/79.html?type=18" target="_blank">
+                <img src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20170620/80464b52-0498-4582-833b-f03fbcd7ce4b.jpg">
+                <div class="skuContainer">
+                    <p class="skuTitle">Android网络图片加载框架详解</p>
+                    <p class="skuInfo">5小时&nbsp;&nbsp;|&nbsp;&nbsp;1门课</p>
+                    <span class="skuPrice">129.00</span>
+                    <span class="skuThrought">¥199.00</span>
+                    <span class="skuNum">6人学习</span>
+                </div>
+                </a>
+            </li>
+        
+    </ul>
